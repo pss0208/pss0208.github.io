@@ -743,8 +743,8 @@ a:hover {
 .about-mf .about-img {
   margin-bottom: 2rem;
 }
-.about-mf .about-img img {
-  margin-left: 110px;
+.about-mf .about-img {
+  text-align: center;
 }
 @media (min-width: 767px) {
   .about-mf .box-pl2 {
