@@ -766,7 +766,10 @@ a:hover {
   height: 0.7rem;
   background-color: #0078ff;
 }
-
+.lead{
+  font-size: large;
+  font-family: var(--bs-body-font-family);
+}
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
