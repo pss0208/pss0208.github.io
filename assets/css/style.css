@@ -766,6 +766,13 @@ a:hover {
   height: 0.7rem;
   background-color: #0078ff;
 }
+.story{
+  margin:auto;
+  
+}
+.highlight{
+  line-height:40px;
+}
 .lead{
   font-size: large;
   font-family: var(--bs-body-font-family);
