@@ -812,8 +812,10 @@ a:hover {
   text-align: center;
   padding: 0.4rem 0;
 }
-.service-box .s-description {
+.text{
   color: #4e4e4e;
+  text-align: left;
+  font-family: var(--bs-body-font-family);
 }
 
 /*--------------------------------------------------------------
