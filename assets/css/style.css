@@ -780,12 +780,12 @@ a:hover {
   margin-bottom: 3rem;
   text-align: center;
 }
-.service-box:hover .ico-circle {
+/* .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
   background-color: #0078ff;
   box-shadow: 0 0 0 10px #cde1f8;
-}
+} */
 .service-box .service-ico {
   margin-bottom: 1rem;
   color: #1e1e1e;
@@ -802,7 +802,6 @@ a:hover {
 }
 .service-box .s-title {
   font-size: 1.4rem;
-  text-transform: uppercase;
   text-align: center;
   padding: 0.4rem 0;
 }
